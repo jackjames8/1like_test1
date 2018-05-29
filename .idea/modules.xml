@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E:\1like_test\1like_test.iml" filepath="E:\1like_test\1like_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1like_test1.iml" filepath="$PROJECT_DIR$/1like_test1.iml" />
-      <module fileurl="file://E:\1like_test1\1like_test1.iml" filepath="E:\1like_test1\1like_test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:/1like_test1/1like_test1.iml" filepath="E:/1like_test1/1like_test1.iml" />
+      <module fileurl="file://F:\1like_test1\1like_test1.iml" filepath="F:\1like_test1\1like_test1.iml" />
+      <module fileurl="file://E:/1like_test1/app/app.iml" filepath="E:/1like_test1/app/app.iml" />
       <module fileurl="file://E:\1like_test\app\app.iml" filepath="E:\1like_test\app\app.iml" />
-      <module fileurl="file://E:\1like_test1\app\app.iml" filepath="E:\1like_test1\app\app.iml" />
+      <module fileurl="file://F:\1like_test1\app\app.iml" filepath="F:\1like_test1\app\app.iml" />
     </modules>
   </component>
 </project>
